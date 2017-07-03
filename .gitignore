@@ -9,5 +9,9 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
+<<<<<<< HEAD
 *.xcworkspace
 Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+=======
+*.xcworkspace
+>>>>>>> 80ff3af758d3f3dcff4e1602bd0f44c3e13d3213
